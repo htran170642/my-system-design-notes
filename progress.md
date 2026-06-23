@@ -21,8 +21,8 @@ Last updated: 2026-06-23
 | Topic | Status | Session Date | Quiz Score |
 |-------|--------|--------------|------------|
 | TCP / UDP | ⚠️ Cần ôn thêm | 2026-06-23 | 2/5 (thiếu TIME_WAIT, CUBIC/BBR, DNS fallback) |
-| HTTP / HTTPS | ⬜ Pending | — | — |
-| HTTP/2 / HTTP/3 | ⬜ Pending | — | — |
+| HTTP / HTTPS | 🔄 In progress | 2026-06-23 | Pending quiz |
+| HTTP/2 / HTTP/3 | 🔄 In progress | 2026-06-23 | Pending quiz |
 | DNS | ⬜ Pending | — | — |
 | CDN | ⬜ Pending | — | — |
 | Reverse Proxy / Load Balancer | ⬜ Pending | — | — |
@@ -133,4 +133,5 @@ Last updated: 2026-06-23
 
 | Date | Topics Covered | Notes |
 |------|---------------|-------|
-| 2026-06-23 | TCP/UDP — theory, trade-offs, interview prep | Quiz pending. See theory/networking/01-tcp-udp.md |
+| 2026-06-23 | TCP/UDP — theory, trade-offs, interview prep | Quiz: 2/5. Yếu: TIME_WAIT, CUBIC/BBR, DNS fallback |
+| 2026-06-23 | HTTP/HTTPS/HTTP2/HTTP3 — notes viết xong | Quiz pending |

@@ -133,5 +133,5 @@ Last updated: 2026-06-23
 
 | Date | Topics Covered | Notes |
 |------|---------------|-------|
-| 2026-06-23 | TCP/UDP — theory, trade-offs, interview prep | Quiz: 2/5. Yếu: TIME_WAIT, CUBIC/BBR, DNS fallback |
+| 2026-06-23 | TCP/UDP — theory, quiz, ARQ exercise, system design | Quiz: 2/5. Yếu: TIME_WAIT, CUBIC/BBR, DNS fallback. Exercise + system design done. |
 | 2026-06-23 | HTTP/HTTPS/HTTP2/HTTP3 — notes viết xong | Quiz pending |

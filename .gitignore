@@ -1,0 +1,4 @@
+progress.md
+.venv/
+__pycache__/
+*.pyc

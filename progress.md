@@ -23,7 +23,7 @@ Last updated: 2026-06-23
 | TCP / UDP | ⚠️ Cần ôn thêm | 2026-06-23 | 2/5 (thiếu TIME_WAIT, CUBIC/BBR, DNS fallback) |
 | HTTP / HTTPS | ❌ Cần ôn lại | 2026-06-23 | Quiz lần 1: 0/5. Xem 02-http-quiz.md |
 | HTTP/2 / HTTP/3 | ❌ Cần ôn lại | 2026-06-23 | Quiz lần 1: 0/5. Xem 02-http-quiz.md |
-| DNS | 🔄 In progress | 2026-06-23 | Pending quiz |
+| DNS | ❌ Cần ôn lại | 2026-06-23 | Quiz lần 1: 1/5. Xem 03-dns-quiz.md |
 | CDN | ⬜ Pending | — | — |
 | Reverse Proxy / Load Balancer | ⬜ Pending | — | — |
 | WebSocket | ⬜ Pending | — | — |
